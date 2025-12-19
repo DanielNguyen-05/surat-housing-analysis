@@ -4,3 +4,7 @@ seaborn
 scikit-learn
 jupyter
 xgboost
+pandas
+statsmodels
+scipy
+xgboost
