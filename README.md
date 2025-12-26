@@ -340,8 +340,8 @@ Ensure you have **Python 3.8+** installed on your system.
 
 ```bash
 # Clone the repository
-git clone https://github.com/DanielNguyen-05/Analysis_Dataset.git
-cd Analysis_Dataset
+git clone https://github.com/DanielNguyen-05/surat-housing-analysis.git
+cd surat-housing-analysis
 
 # Create virtual environment
 python -m venv .venv
